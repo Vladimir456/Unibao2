@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unibaño</string>
+    <string name="cuenta">Account</string>
+    <string name="pass">Password</string>
+    <string name="button3">Login</string>
+    <string name="textView">Ground floor bathroom</string>
+    <string name="textView2">Bathroom floor 4</string>
+    <string name="textView3">Bathroom floor 6</string>
+    <string name="textView4">Bathroom floor 8</string>
+    <string name="textView5">Bathroom floor 10</string>
+    <string name="textView6">Bathroom floor 12</string>
+    <string name="textView7">Bathroom floor 14</string>
+    <string name="textView8">Bathroom floor 17</string>
+    <string name="button2">Go out</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unibaño</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="pass">Contraseña</string>
+    <string name="button3">Iniciar sesion</string>
+    <string name="textView">Baño planta baja</string>
+    <string name="textView2">Baño piso 4 </string>
+    <string name="textView3">Baño piso 6 </string>
+    <string name="textView4">Baño piso 8 </string>
+    <string name="textView5">Baño piso 10 </string>
+    <string name="textView6">Baño piso 12</string>
+    <string name="textView7">Baño piso 14</string>
+    <string name="textView8">Baño piso 17 </string>
+    <string name="button2">Salir</string>
+
+</resources>
